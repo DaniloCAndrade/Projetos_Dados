@@ -30,6 +30,12 @@ Uma calculadora básica — mas com alma! Criada com **Python puro**, rodável v
 ### ▶️ Como executar:
 
 ```bash
+# Se for a sua primeira execução, utilize o comando:
+git clone caminho_do_projeto
+
+# Acesse o diretório Projeto_Dados
+cd Projeto_Dados
+
 # Acesse o diretório do projeto
 cd projeto_1_calc
 
