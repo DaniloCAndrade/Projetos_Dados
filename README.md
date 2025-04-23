@@ -34,7 +34,7 @@ Uma calculadora básica — mas com alma! Criada com **Python puro**, rodável v
 cd projeto_1_calc
 
 # Dê permissão de execução ao script
-chmod +x calculadora.sh
+chmod 744 calculadora.sh
 
 # Execute a calculadora
 ./calculadora.sh
