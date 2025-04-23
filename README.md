@@ -21,11 +21,11 @@ Uma calculadora básica — mas com alma! Criada com **Python puro**, rodável v
 - `calculadora.py` → Script principal com lógica da calculadora
 - `calculadora.sh` → Script de automação para rodar o Python no Ubuntu
 
-### 🔄 Funcionalidades:
-- Solicitação do nome do usuário
-- Entrada de dois valores
-- Operações básicas: soma, subtração, multiplicação, divisão, potenciação
-- Loop com confirmação para continuar ou encerrar
+### 🔄 Funcionalidades do Código:
+- Solicitação do nome do usuário na execução do código;
+- Entrada de dois valores;
+- Operações básicas: soma, subtração, multiplicação, divisão, potenciação;
+- Loop com confirmação para continuar ou encerrar a calculadora;
 
 ### ▶️ Como executar:
 
